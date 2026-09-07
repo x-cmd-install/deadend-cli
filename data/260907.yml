@@ -5,15 +5,15 @@ about:
   head: 34e8371
   archived: false
   latestVersion: "v0.1.15"
-  collectedAt: 2026-09-07T04:43:21Z
+  collectedAt: 2026-09-07T19:48:40Z
 timeline:
   created: 2025-07-22
   lastCommit: 2026-08-07
   lastRelease: 2026-04-11
 popularity:
-  star: 304
+  star: 305
   watcher: 9
-  fork: 51
+  fork: 52
   release: 7
   contributor: 5
   pullRequest: 51
@@ -84,7 +84,7 @@ total:
   commit: 386
 ---
 path: /home/runner/.x-repo/github.com/straylabs-ai/deadend-cli
-collectedAt: 2026-09-07T04:43:50Z
+collectedAt: 2026-09-07T19:49:05Z
 loc:
   Python:
     code: 30108
@@ -150,7 +150,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:44:01+00:00
+  collectedAt: 2026-09-07T19:49:15+00:00
   platform:
     darwin/arm64:
       name:  deadend-cli-macos-aarch64.tar.gz
