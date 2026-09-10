@@ -4,7 +4,7 @@
 
 Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)
 
-![deadend-cli](https://repo.x-cmd.io/deadend-cli.svg)
+![deadend-cli](https://repo.x-cmd.io/deadend-cli.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,19 @@ x install deadend-cli
 - **最新版本**: `v0.1.15` (2026-04-11)
 - **最近提交**: 2026-08-07
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-04-11T21:33:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [deadend-cli-linux-x86_64.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-linux-x86_64.tar.gz) | 38.7 MiB | `native/linux/x64` |
+| [deadend-cli-linux-x86_64.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-linux-x86_64.tar.gz.sha256) | 98 B | `native/linux/x64` |
+| [deadend-cli-macos-aarch64.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-macos-aarch64.tar.gz) | 22.2 MiB | `native/darwin/arm64` |
+| [deadend-cli-macos-aarch64.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-macos-aarch64.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
+| [deadend-linux-x86_64-unknown-linux-gnu.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-linux-x86_64-unknown-linux-gnu.tar.gz) | 323.0 MiB | `native/linux/x64/glibc` |
+| [deadend-linux-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-linux-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
+| [deadend-macos-aarch64-apple-darwin.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-macos-aarch64-apple-darwin.tar.gz) | 279.4 MiB | `native/darwin/arm64` |
+| [deadend-macos-aarch64-apple-darwin.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-macos-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
 
 ## 流行度
 
@@ -61,4 +73,4 @@ deadend-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:48:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:22:22Z._

@@ -22,7 +22,19 @@ x install deadend-cli
 - **Latest**: `v0.1.15` (2026-04-11)
 - **Last commit**: 2026-08-07
 - **Assets in release**: 8
-- **Published**: 2026-04-11T21:33:59Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [deadend-cli-linux-x86_64.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-linux-x86_64.tar.gz) | 38.7 MiB | `native/linux/x64` |
+| [deadend-cli-linux-x86_64.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-linux-x86_64.tar.gz.sha256) | 98 B | `native/linux/x64` |
+| [deadend-cli-macos-aarch64.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-macos-aarch64.tar.gz) | 22.2 MiB | `native/darwin/arm64` |
+| [deadend-cli-macos-aarch64.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-cli-macos-aarch64.tar.gz.sha256) | 99 B | `native/darwin/arm64` |
+| [deadend-linux-x86_64-unknown-linux-gnu.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-linux-x86_64-unknown-linux-gnu.tar.gz) | 323.0 MiB | `native/linux/x64/glibc` |
+| [deadend-linux-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-linux-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
+| [deadend-macos-aarch64-apple-darwin.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-macos-aarch64-apple-darwin.tar.gz) | 279.4 MiB | `native/darwin/arm64` |
+| [deadend-macos-aarch64-apple-darwin.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-macos-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
 
 ## Popularity
 
@@ -57,8 +69,8 @@ Total: **36,163** lines of code across **190** files in the top 5 languages.
 Install metadata for deadend-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `deadend-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/deadend-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/deadend-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:22:22Z._
