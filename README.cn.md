@@ -12,6 +12,18 @@ Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark
 x install deadend-cli
 ```
 
+## 代码洞察
+
+合计: **36,163** 行代码（覆盖前 5 种语言、共 **190** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 30,108 | 2,186 | 4,670 | 149 |
+| TypeScript | 3,783 | 20 | 535 | 16 |
+| Sh | 1,513 | 130 | 259 | 10 |
+| Json | 405 | 0 | 3 | 10 |
+| Toml | 272 | 6 | 29 | 5 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/straylabs-ai/deadend-cli>
@@ -22,6 +34,25 @@ x install deadend-cli
 - **最新版本**: `v0.1.15` (2026-04-11)
 - **最近提交**: 2026-08-07
 - **Release 含资产**: 8 个
+
+## 流行度
+
+- **Star**: 306 · **Fork**: 52 · **开放 issue**: 24 · **贡献者**: 5
+
+## 累计统计
+
+- **发布数**: 7 · **已合并 PR**: 43 · **开放 PR**: 3 · **已关闭 issue**: 17 · **开放 issue**: 7 · **提交数**: 386
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 90d | 2026-06-13 | 0 | 1 | 1 | 0 | 1 | 3 |
+| last180d | 2026-03-15 | 2 | 9 | 2 | 1 | 2 | 52 |
+| 360d | 2025-09-16 | 7 | 42 | 3 | 15 | 6 | 297 |
+| last720d | 2024-09-21 | 7 | 43 | 3 | 17 | 7 | 386 |
 
 ## Release 资产
 
@@ -36,34 +67,6 @@ x install deadend-cli
 | [deadend-macos-aarch64-apple-darwin.tar.gz](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-macos-aarch64-apple-darwin.tar.gz) | 279.4 MiB | `native/darwin/arm64` |
 | [deadend-macos-aarch64-apple-darwin.tar.gz.sha256](https://github.com/straylabs-ai/deadend-cli/releases/download/v0.1.15/deadend-macos-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
 
-## 流行度
-
-- **Star**: 306 · **Fork**: 52 · **开放 issue**: 24 · **贡献者**: 5
-
-## 累计统计
-
-- **发布数**: 7 · **已合并 PR**: 43 · **开放 PR**: 3 · **已关闭 issue**: 17 · **开放 issue**: 7 · **提交数**: 386
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 1 | 1 | 0 | 1 | 3 |
-| 360d | 2025-09-15 | 7 | 42 | 3 | 15 | 6 | 297 |
-
-## 代码规模
-
-合计: **36,163** 行代码（覆盖前 5 种语言、共 **190** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 30,108 | 2,186 | 4,670 | 149 |
-| TypeScript | 3,783 | 20 | 535 | 16 |
-| Sh | 1,513 | 130 | 259 | 10 |
-| Json | 405 | 0 | 3 | 10 |
-| Toml | 272 | 6 | 29 | 5 |
-
 ## 改进这些数据
 
 deadend-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `deadend-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -73,4 +76,4 @@ deadend-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:22:22Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:13:11Z._
