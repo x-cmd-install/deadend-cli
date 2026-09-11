@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.15"
   latestRelease: "v0.1.15"
   latestPrerelease: "v0.0.5"
-  collectedAt: 2026-09-11T00:11:54Z
+  collectedAt: 2026-09-11T04:48:45Z
 timeline:
   created: 2025-07-22
   lastCommit: 2026-08-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-11
   lastPrerelease: 2025-10-03
 popularity:
-  star: 306
+  star: 307
   watcher: 9
   fork: 52
   release: 7
@@ -88,7 +88,7 @@ total:
   commit: 386
 ---
 path: /home/runner/.x-repo/github.com/straylabs-ai/deadend-cli
-collectedAt: 2026-09-11T00:12:30Z
+collectedAt: 2026-09-11T04:49:12Z
 loc:
   Python:
     code: 30108
