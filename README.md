@@ -4,7 +4,7 @@
 
 Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)
 
-![deadend-cli](https://repo.x-cmd.io/deadend-cli.svg)
+[![x-cmd/install — deadend-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deadend-cli.svg)](https://x-cmd.com/install/deadend-cli)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **36,163** lines of code across **190** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 308 · **Forks**: 52 · **Open issues**: 24 · **Contributors**: 5
+- **Stars**: 311 · **Forks**: 52 · **Open issues**: 24 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **36,163** lines of code across **190** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 0 | 1 | 1 |
-| 90d | 2026-06-20 | 0 | 1 | 1 | 0 | 1 | 3 |
-| last180d | 2026-03-22 | 2 | 9 | 2 | 0 | 2 | 52 |
-| 360d | 2025-09-23 | 7 | 42 | 3 | 15 | 6 | 292 |
-| last720d | 2024-09-28 | 7 | 43 | 3 | 17 | 7 | 386 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last180d | 2026-03-24 | 2 | 8 | 2 | 0 | 2 | 39 |
+| 360d | 2025-09-25 | 7 | 42 | 3 | 15 | 6 | 285 |
+| last720d | 2024-09-30 | 7 | 43 | 3 | 17 | 7 | 386 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for deadend-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:52:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:17:12Z._

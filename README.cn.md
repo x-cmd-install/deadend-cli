@@ -4,7 +4,7 @@
 
 Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)
 
-![deadend-cli](https://repo.x-cmd.io/deadend-cli.svg?lang=zh)
+[![x-cmd/install — deadend-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deadend-cli.svg?lang=zh)](https://x-cmd.com/install/deadend-cli)
 
 ## 安装
 
@@ -37,7 +37,7 @@ x install deadend-cli
 
 ## 流行度
 
-- **Star**: 308 · **Fork**: 52 · **开放 issue**: 24 · **贡献者**: 5
+- **Star**: 311 · **Fork**: 52 · **开放 issue**: 24 · **贡献者**: 5
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install deadend-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 1 | 0 | 1 | 1 |
-| 90d | 2026-06-20 | 0 | 1 | 1 | 0 | 1 | 3 |
-| last180d | 2026-03-22 | 2 | 9 | 2 | 0 | 2 | 52 |
-| 360d | 2025-09-23 | 7 | 42 | 3 | 15 | 6 | 292 |
-| last720d | 2024-09-28 | 7 | 43 | 3 | 17 | 7 | 386 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last180d | 2026-03-24 | 2 | 8 | 2 | 0 | 2 | 39 |
+| 360d | 2025-09-25 | 7 | 42 | 3 | 15 | 6 | 285 |
+| last720d | 2024-09-30 | 7 | 43 | 3 | 17 | 7 | 386 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ deadend-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:52:12Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:17:13Z._
