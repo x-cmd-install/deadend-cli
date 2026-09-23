@@ -4,7 +4,7 @@
 
 Agentic pentest tooling. Currently achieving 81% (KIMI K2.5) on XBOW's benchmark in full black-box. Completely Self-hosted. Every model available on LiteLLM (Ollama, anthropic, openai...)
 
-[![x-cmd/install — deadend-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/deadend-cli.svg)](https://x-cmd.com/install/deadend-cli)
+[![x-cmd/install — deadend-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/deadend-cli.svg)](https://x-cmd.com/install/deadend-cli)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **36,163** lines of code across **190** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 1 | 1 |
-| 90d | 2026-06-24 | 0 | 0 | 1 | 0 | 1 | 1 |
-| last180d | 2026-03-26 | 2 | 7 | 2 | 0 | 2 | 39 |
-| 360d | 2025-09-27 | 7 | 42 | 3 | 15 | 6 | 285 |
-| last720d | 2024-10-02 | 7 | 43 | 3 | 17 | 7 | 386 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last180d | 2026-03-27 | 2 | 7 | 2 | 0 | 1 | 39 |
+| 360d | 2025-09-28 | 7 | 42 | 3 | 15 | 6 | 285 |
+| last720d | 2024-10-03 | 7 | 43 | 3 | 17 | 7 | 386 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for deadend-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:05:30Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:06:08Z._
