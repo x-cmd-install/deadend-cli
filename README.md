@@ -37,22 +37,22 @@ Total: **36,163** lines of code across **190** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 334 · **Forks**: 54 · **Open issues**: 23 · **Contributors**: 5
+- **Stars**: 333 · **Forks**: 55 · **Open issues**: 23 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 43 · **Open PRs**: 3 · **Closed issues**: 16 · **Open issues**: 7 · **Commits**: 386
+- **Releases**: 7 · **Merged PRs**: 43 · **Open PRs**: 4 · **Closed issues**: 16 · **Open issues**: 7 · **Commits**: 386
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 0 | 1 | 1 | 0 | 1 | 3 |
-| 360d | 2025-11-25 | 6 | 32 | 3 | 7 | 5 | 194 |
-| last720d | 2024-11-30 | 7 | 43 | 3 | 16 | 7 | 386 |
+| 30d | 2026-10-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 0 | 1 | 2 | 0 | 1 | 3 |
+| 360d | 2025-11-26 | 6 | 32 | 4 | 7 | 5 | 194 |
+| last720d | 2024-12-01 | 7 | 43 | 4 | 16 | 7 | 386 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for deadend-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:25:31Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:11:23Z._
